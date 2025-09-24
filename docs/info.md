@@ -9,12 +9,12 @@ You can also include images in this folder and reference them in the markdown. E
 
 ## How it works
 
-Explain how your project works
+It only uses the clock and than loops around may need a few secend to reset from undefined flip flop states
 
 ## How to test
 
-Explain how to use your project
+Not tests jet jsut run it 
 
 ## External hardware
 
-List external hardware used in your project (e.g. PMOD, LED display, etc), if any
+a pmod 7 segment display
